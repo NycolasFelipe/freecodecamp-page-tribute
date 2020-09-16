@@ -1,0 +1,36 @@
+<main id="main">
+<h1 id="title">Darth Vader (Anakin Skywalker)</h1>
+<p>The most iconic villain ever</p>
+
+<div>
+<figure id="img-div">
+<img id="image" src="https://4.bp.blogspot.com/-6buCFtSi1ds/WjU2xZaIY2I/AAAAAAAAAbM/uuef1UCl6FMbZ4dRUKwOAax6YQFg7oZ7wCLcBGAs/s1600/DARTH%2BVEDER.jpg" alt="Darth Vader using his force">
+
+<figcaption id="img-caption">
+Once a heroic Jedi Knight, Darth Vader was seduced by the dark side of the Force, became a Sith Lord, and led the Empire's eradication of the Jedi Order.
+</figcaption>
+</figure>
+</div>
+
+<section id="tribute-info">
+<h2 id="headline">Darth Vader's lifetime:</h2>
+
+<ul>
+	<li><strong>41 BBY</strong> - Anakin Skywalker is born on the planet of Tatooine<li>
+	<li><strong>32 BBY</strong> - Becomes Obi Wan's padawan<li>
+	<li><strong>32 BBY</strong> - Win his first pod racing<li>
+	<li><strong>32 BBY</strong> - Win the Battle of Naboo by destroying a ship of the Commerce Federation<li>
+	<li><strong>23 BBY</strong> - Becomes a Jedi<li>
+	<li><strong>23 BBY</strong> - Maries Padme Amidala and have two children with her: Luke and Leia<li>
+	<li><strong>19 BBY</strong> - He becomes a Sith<li>
+	<li><strong>19 BBY</strong> - Becomes the Darth Vader<li>
+	<li><strong>3 ABY</strong> - Reveal to Luke that he was his father<li>
+	<li><strong>4 ABY</strong> - Becomes the Chosen One, by eliminatig the Emperor Palpatine<li>
+	<li><strong>4 ABY</strong> - He dies<li>
+	<li><strong>4 ABY</strong> - Becomes one with the force<li>
+</ul>
+
+<h3>If you wanna see more things about him, you should take a look at his <a id="tribute-link" href="https://en.wikipedia.org/wiki/Darth_Vader" target="_blank">Wikipedia article</a></h3>
+
+</section>
+</main>

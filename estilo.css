@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Days+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kufam&display=swap');
+
+body {
+    background: rgb(32, 32, 32);
+    color: white;
+    font-family: 'Kufam', cursive; 
+    text-align: center;
+    text-shadow: 0.2vh 0.2vh 0.3vh black;
+}
+
+div#img-div {
+    background-color: rgb(24, 24, 24);
+    padding: 3.5vh;
+    box-shadow: 0.1vh 0.1vh 0.5vh rgba(0, 0, 0, 0.658);
+}
+
+h1 {
+    font-family: 'Days One', sans-serif;
+    font-weight: lighter;
+    font-size: 5vh;
+}
+
+h2 {
+    font-size: 4vh;
+    font-weight: lighter;
+}
+
+h3 {
+    font-size: 2.5vh;
+    font-weight: lighter;
+    margin-bottom: 6vh;
+}
+
+p {
+    font-size: 3vh;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(141, 161, 247);
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+img#image {
+    display: block;
+    height: auto;
+    max-width: 100%;
+    margin: auto;
+    width: 1000px;
+    /*border-bottom: 10vh solid rgb(36, 33, 48);*/
+    box-shadow: 0.1vh 0.1vh 0.5vh black;
+}
+
+figcaption#img-caption {
+    width: 940px;
+    max-width: fit-content;
+    background-color: rgb(31, 28, 43);
+    padding: 1vh 29px;
+    margin: auto;
+    border: 1px solid rgba(255, 255, 255, 0);
+    box-shadow: 0.1vh 0.1vh 0.5vh black;
+    text-align: justify;
+    font-size: 3vh;
+}
+
+section#tribute-info {
+    margin: auto;
+    margin-top: 7vh;
+}
+
+section#tribute-info ul {
+    list-style: square;
+    text-align: justify;
+    font-size: 2.6vh;
+    line-height: 2;
+    margin: 6vh auto;
+    width: 50vw;
+}
+
